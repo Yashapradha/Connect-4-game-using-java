@@ -17,7 +17,7 @@ Welcome to the Connect Four game! This project is a classic two-player game impl
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Yashapradha/connect-four.git
+   git clone [https://github.com/Yashapradha/connect-four.git](https://github.com/Yashapradha/Connect-4-game-using-java.git)
    
 2. **Navigate to the Directory**:
    ```bash
